@@ -9,7 +9,7 @@ public class HelloWorldTest {
 	@Test
 	public void test() {
 	
-	String message= "Hello World, I am Marialaura!";
+	String message= "Hello World, I am Marialaura! What's your name?";
 	
 	HelloWorldWithTest test =new HelloWorldWithTest();
 	
